@@ -22,6 +22,12 @@
 
 ### 프로세스 스케줄링 알고리즘에는 어떤 것들이 있나요?
   #### Preemptive / Non-Preemptive
+  #### Multi-level feedback Queue가 왜 나왔는지?
+  #### Linux의 Process Scheduling?
+  #### RR을 사용할 때, Time Slice에 따른 trade-off를 설명해 주세요.
+  #### 싱글 스레드 CPU 에서 상시로 돌아가야 하는 프로세스가 있다면, 어떤 스케쥴링 알고리즘을 사용하는 것이 좋을까요? 또 왜 그럴까요
+  #### 동시성과 병렬성의 차이에 대해 설명해 주세요.
+  #### 타 스케쥴러와 비교하여, Multi-level Feedback Queue는 어떤 문제점들을 해결한다고 볼 수 있을까요?
 
 
 ### 단기, 중기, 장기 스케쥴러란?
