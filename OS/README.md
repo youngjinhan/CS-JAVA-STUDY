@@ -6,9 +6,9 @@
   ### Process와 Program 차이점 설명
   ### Process와 Thread 차이점 설명
   
-    -Light-weight process
+  - Light-weight process
     
-    -멀티 프로세스, 멀티 스레드 정의와 속도 차이
+  - 멀티 프로세스, 멀티 스레드 정의와 속도 차이
     
     + 크롬의 탭은 프로세스인가 스레드인가
     
